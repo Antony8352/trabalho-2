@@ -1,0 +1,100 @@
+body {
+    background-color: black; 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    color: #8f8e8e;
+}
+
+
+
+h2 {
+    color: #ffffff; 
+}
+
+p {
+    color: #ffffff; 
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff; 
+    background-color: #726f74; 
+    padding: 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.tess{
+    color: #ffffff;
+    text-align: center;
+}
+
+.Art {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 240px;
+}
+
+
+.Art1{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #726f74;
+    padding: 10px; 
+    width: 90%;
+
+}
+  
+.su{
+    color: white;
+    margin-left: 225px;
+}
+
+.section-container{
+    color: #ffffff;
+    display: flex;
+    text-align: center;
+    border: 3px solid #6f7079;
+    padding: 10px; 
+    width: 98%;
+display: flex;
+text-align: center;
+border: 3px solid #585454;
+padding: 10px; 
+width: 98%;
+}
+
+.Art7{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #726f74;
+    padding: 10px; 
+    width: 100%;
+
+}
+.section-container1 {
+    display: block;
+    text-align: center;
+    border: 3px solid #000000;
+    padding: 10px; 
+    padding: 100px; 
+    width: 88%;
+}
+  
+
+    
+    
+
+

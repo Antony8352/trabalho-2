@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(0, 0, 0); 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {
+    text-align: center;
+    color: #9e3939;
+}
+
+
+.item {
+    border: 2px solid #aa3939;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    text-align: center;
+}
+.item1 {
+    border: 2px solid #a13939;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #000000;
+    text-align: center;
+}
+h2 {
+    color: #ffffff; 
+}
+
+p {
+    color: #666; 
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff; 
+    background-color: #8d3636;
+    padding: 6px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.tess{
+    color: #941f1f;
+    text-align: center;
+}
+
+.Art {
+    color: white;
+    text-align: center;
+    width: 240px;
+}
+
+.section-container {
+    display: flex;
+    text-align: center;
+    border: 2px solid #a73434;
+    padding: 40px; 
+    
+  }
+.Art1{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #9c2a2a;
+    padding: 10px; 
+    width: 91%;
+
+}
+  
+.su{
+    color: white;
+    margin-left: 225px;
+}
+
+.section-container{
+color: #ffffff;
+display: flex;
+text-align: center;
+border: 3px solid #a32424;
+padding: 10px; 
+width: 98%;
+}
+  
+.Art7{
+    color: white;
+   text-align: center;
+   display: flex;
+    text-align: center;
+    border: 2px solid #862121;
+    padding: 10px; 
+    width: 100%;
+
+}
+.section-container1 {
+    display: block;
+    text-align: center;
+    border: 4px solid #000000;
+    padding: 100px; 
+    width: 88%;
+    
+    
+
+}
+
+
